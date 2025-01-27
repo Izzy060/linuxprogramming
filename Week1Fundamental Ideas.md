@@ -1,8 +1,7 @@
 
 Big Picture.
 
-Before diving in Linux, we need to discuss couple of things, or try to understand
-why exactly things, happens to be end up like that.
+
 
 # === > Typical Computer System Architecture
 
@@ -32,7 +31,7 @@ So one group of programmers, said we gonna create our own OS.
 
 By that, we end up having Linux and MacOS family.
 
-After that MacOS, kind of consolidated, Apple has tight control over macOS, both in terms of software and the hardware it runs on. This makes macOS a more consolidated ecosystem, without the fragmentation observed in Linux.
+After that MacOS, kind of consolidated, Apple has tight control over macOS, both in terms of software and the hardware it runs on. This makes macOS a more consolidated ecosystem, without the fragmentation observed in Ltinux.
 
 but Linux went in different direction, from time to time some group of people say, we want to have our own version of Linux and they started to create different versions or distros.
 
