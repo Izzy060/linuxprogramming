@@ -312,7 +312,7 @@ sudo apt install tree
 
 The tree command will display a hierarchical structure of directories and files, giving you a clear view of the structure you've just created.
 
-After completing these steps, you should see an output that confirms you've created AssignmentRoot, with two sub-directories SubDir1 and SubDir2, each containing a text file (file1.txt and file2.txt, respectively). This verifies that you've correctly followed the assignment steps.
+After completing these steps, you should see an output thatt confirms you've created AssignmentRoot, with two sub-directories SubDir1 and SubDir2, each containing a text file (file1.txt and file2.txt, respectively). This verifies that you've correctly followed the assignment steps.
 
 
 If you don't want to install tree, you can use the built-in find command to display the directory structure, although it won't be as neatly formatted as with tree.
